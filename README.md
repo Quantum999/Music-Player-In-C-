@@ -1,4 +1,4 @@
-Music Player Application:
+# Music Player Application:
 
 This is music player written in C++11 using the concepts of inheritance and design patterns.
 
